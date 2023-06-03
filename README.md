@@ -1,4 +1,4 @@
-# Ex.No:12 Design an application that draws basic graphical primitives on the screen.
+# Ex.No:12 Design an application that draws basic graphical primitives on the screen
 
 ### AIM:
 To create and design an android application that draws basic graphical primitives on the screen using Android Studio.
@@ -29,7 +29,7 @@ Developed by:Kathirvelan.K
 
 Registeration Number :212221220026
 
-Activity.xml
+activity_main.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -50,7 +50,7 @@ Activity.xml
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-Main_activity.java
+MainActivity.java
 ```
 package com.example.graphicalprimitives;
 
